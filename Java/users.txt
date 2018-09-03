@@ -1,5 +1,0 @@
-admin admin
-tripti tripti
-sumit 123
-shardha 111
-ram12 ram123
