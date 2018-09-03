@@ -1,0 +1,6 @@
+dimri.txt
+hello.txt
+pic2.jpg
+pic1.jpg
+pic5.jpg
+important.txt

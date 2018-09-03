@@ -1,0 +1,8 @@
+sumit.txt
+dimri.txt
+pic1.jpg
+pic3.jpg
+pic4.jpg
+smt.pdf
+copy.png
+setup.exe

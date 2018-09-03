@@ -1,0 +1,16 @@
+Find in array:
+	
+	Python:
+		if number in array:
+			print("found")
+		else:
+			print("not found")
+
+	c++:
+		if(find(array, array+size, number) != array+size)
+			cout << "Found";
+		else
+			cout << "Not found";
+
+	Java:
+		
